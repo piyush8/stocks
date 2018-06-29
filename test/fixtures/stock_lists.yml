@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stock: MyString
+  bearer: MyString
+  currency: MyString
+  value_cents: 1
+
+two:
+  stock: MyString
+  bearer: MyString
+  currency: MyString
+  value_cents: 1
